@@ -1,5 +1,5 @@
 {
-  "homepage": "https://yourgithubname.github.io/your-app-name",
+  "homepage": "https://DevAlexMiller.github.io/Teste-Vaga-FrontEnd-Jr",
   "scripts": {
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build",
